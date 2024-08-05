@@ -7,7 +7,7 @@ from typing import Generator
 
 
 
-st.image("C:/Users/admin/OneDrive/Documentos/aprende_programando/Inteligencia Artificial con Python/LogoAP.png", width=150)
+st.image("LogoAP.png", width=150)
 st.header("Bienvenido a Groq Bot")
 st.subheader("Selecciona un modelo y haz una pregunta")
 
